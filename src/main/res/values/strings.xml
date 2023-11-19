@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MyFirstApplication</string>
+    <string name="fisrttext">Welcome to TODO list</string>
+    <string name="sectext">Now you can create the list of your daily activities!!!</string>
+    <string name="todoimg">TODO</string>
+    <string name="todobt">TODO</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="about">This is Sample application i.e,ToDo List here using the concept of UI layout design and the java programming language
+        to build the logic of the project user of this application may experience the data inconsistency receiving to some sequential executing
+        of the instructions and also its built using the basic concept related to app development.</string>
+    <string name="abouthead">About the Project....</string>
+    <string name="about2">User can set multiple Activity and can edit the Same with edit Button </string>
+    <string name="about3">User can also delete the activity after its completion</string>
+    <string name="about4">User can also set the time and date with the adding of activity.
+        The application built with help of Android documentation.</string>
+    <string name="developer">App was built by Nishanth for more queries.....</string>
+    <string name="devinfo">insta:nishanth_kshatriya</string>
+    <string name="devinfo2">email:nishanthns571@gmail.com</string>
+    <string name="other">others can free to develop this to the next level</string>
+</resources>
